@@ -847,11 +847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj",
+      "projectUniqueName": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj",
       "projectName": "JennaBankingAppThursday",
-      "projectPath": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj",
+      "projectPath": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday\\obj\\",
+      "outputPath": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

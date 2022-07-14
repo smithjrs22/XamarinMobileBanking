@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pt55zk5f3Fh8gYDmmQh4ax8qGtTUccQ1qGBjq3vBVcee508zE7MkrTvVsYibuGHBUzhroewLHitZvgsv/CX89g==",
+  "dgSpecHash": "Qv481vnVvG/0JCA69a8poAZm8Of7MgT1cT7oDloSbveKbyqVzNNnVMuAWoJ7aqQYnw8pLUpdsWVk7IdyJFjH1A==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.Android\\JennaBankingAppThursday.Android.csproj",
+  "projectFilePath": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday.Android\\JennaBankingAppThursday.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

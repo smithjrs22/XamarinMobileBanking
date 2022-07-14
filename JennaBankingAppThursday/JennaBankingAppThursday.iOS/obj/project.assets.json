@@ -1447,7 +1447,8 @@
     "Xamarin.iOS,Version=v1.0": [
       "JennaBankingAppThursday >= 1.0.0",
       "Xamarin.Essentials >= 1.6.1",
-      "Xamarin.Forms >= 5.0.0.2012"
+      "Xamarin.Forms >= 5.0.0.2012",
+      "sqlite-net-pcl >= 1.8.116"
     ]
   },
   "packageFolders": {
@@ -1458,11 +1459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.iOS\\JennaBankingAppThursday.iOS.csproj",
+      "projectUniqueName": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday.iOS\\JennaBankingAppThursday.iOS.csproj",
       "projectName": "JennaBankingAppThursday.iOS",
-      "projectPath": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.iOS\\JennaBankingAppThursday.iOS.csproj",
+      "projectPath": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday.iOS\\JennaBankingAppThursday.iOS.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.iOS\\obj\\",
+      "outputPath": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1484,8 +1485,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj": {
-              "projectPath": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj"
+            "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj": {
+              "projectPath": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj"
             }
           }
         }
@@ -1501,6 +1502,10 @@
           "Xamarin.Forms": {
             "target": "Package",
             "version": "[5.0.0.2012, )"
+          },
+          "sqlite-net-pcl": {
+            "target": "Package",
+            "version": "[1.8.116, )"
           }
         }
       }

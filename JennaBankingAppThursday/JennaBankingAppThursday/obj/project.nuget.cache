@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mlkw3N/GMDW2aZjLS3OLiUPmdY7M/fkz/PChCS7M9H6HUP6TKyTdj8xDyDMXaCkjjUvm7/LmrghnJqkXDIRkg==",
+  "dgSpecHash": "i7kMGwhgh7LmQJAnrgInvD+wa++wIDn8itgfLuNo7XTkPVJUYO65uTVuLvNmPtPQGZun6YfEQtVhiwkiAX/mVA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj",
+  "projectFilePath": "C:\\Dev\\Xamarin Banking App\\JennaBankingAppThursday\\JennaBankingAppThursday\\JennaBankingAppThursday.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

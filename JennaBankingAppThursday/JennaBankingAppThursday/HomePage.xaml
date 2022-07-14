@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="JennaBankingAppThursday.HomePage">
     <ContentPage.Content>
-        <Button Text="Logout" Clicked="Handle_Clicked"  TextColor="#007be"/>
+        <Button Text="Logout" Clicked="Handle_Clicked"  TextColor="black"/>
 
     </ContentPage.Content>
 </ContentPage>
