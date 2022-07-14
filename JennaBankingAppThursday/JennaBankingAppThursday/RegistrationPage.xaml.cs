@@ -41,11 +41,13 @@ namespace JennaBankingAppThursday
             {
                 var result = await this.DisplayAlert("Congratulations", "User Registration successfull", "Yes", "Cancel");
 
+                if (result)
+                    await Navigation.PushAsync(new LoginPage());
             });
 
 
         }
 
-        //private void Button_Clicked(object sender, EventArgs e){}
+       
     }
 }

@@ -14,3 +14,5 @@ C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\o
 C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.dll
 C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\ref\JennaBankingAppThursday.dll
 C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.pdb
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs

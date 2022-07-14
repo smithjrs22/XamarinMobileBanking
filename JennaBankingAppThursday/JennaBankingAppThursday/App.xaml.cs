@@ -10,7 +10,7 @@ namespace JennaBankingAppThursday
         {
             InitializeComponent();
 
-            MainPage = new RegistrationPage();
+            MainPage = new NavigationPage(new LoginPage());
         }
 
         protected override void OnStart()
