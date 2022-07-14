@@ -1,0 +1,16 @@
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.csproj.AssemblyReference.cache
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.AssemblyInfoInputs.cache
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.AssemblyInfo.cs
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.csproj.CoreCompileInputs.cache
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\bin\Debug\netstandard2.0\JennaBankingAppThursday.deps.json
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\bin\Debug\netstandard2.0\JennaBankingAppThursday.dll
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\bin\Debug\netstandard2.0\ref\JennaBankingAppThursday.dll
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\bin\Debug\netstandard2.0\JennaBankingAppThursday.pdb
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.dll
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\ref\JennaBankingAppThursday.dll
+C:\Dev\JennaBankingAppThursday\JennaBankingAppThursday\JennaBankingAppThursday\obj\Debug\netstandard2.0\JennaBankingAppThursday.pdb
